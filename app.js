@@ -10,4 +10,40 @@ var ballard = {
 hours: 5,
 pizzasSoldHour: 7,
 pizzasSoldDay: 63,
+openHours: ["8am", "9am", "10am", "11am", "12pm", "1pm", "2pm", "3pm", "4pm", "5pm", "6pm", "7pm", "8pm", "9pm", "10pm", "11pm", "12am", "1am", "2am"],
+};
+
+var firstHill = {
+  hours: 5,
+  pizzasSoldHour: 7,
+  pizzasSoldDay: 65,
+  openHours: ["8am", "9am", "10am", "11am", "12pm", "1pm", "2pm", "3pm", "4pm", "5pm", "6pm", "7pm", "8pm", "9pm", "10pm", "11pm", "12am", "1am", "2am"],
+};
+
+var internationalDist = {
+  hours: 5,
+  pizzasSoldHour: 7,
+  pizzasSoldDay: 65,
+  openHours: ["8am", "9am", "10am", "11am", "12pm", "1pm", "2pm", "3pm", "4pm", "5pm", "6pm", "7pm", "8pm", "9pm", "10pm", "11pm", "12am", "1am", "2am"],
+};
+
+var southLakeUnion = {
+  hours: 5,
+  pizzasSoldHour: 7,
+  pizzasSoldDay: 65,
+  openHours: ["8am", "9am", "10am", "11am", "12pm", "1pm", "2pm", "3pm", "4pm", "5pm", "6pm", "7pm", "8pm", "9pm", "10pm", "11pm", "12am", "1am", "2am"],
+};
+
+var georgeTown = {
+  hours: 5,
+  pizzasSoldHour: 7,
+  pizzasSoldDay: 65,
+  openHours: ["8am", "9am", "10am", "11am", "12pm", "1pm", "2pm", "3pm", "4pm", "5pm", "6pm", "7pm", "8pm", "9pm", "10pm", "11pm", "12am", "1am", "2am"],
+};
+
+var ravenna = {
+  hours: 5,
+  pizzasSoldHour: 7,
+  pizzasSoldDay: 65,
+  openHours: ["8am", "9am", "10am", "11am", "12pm", "1pm", "2pm", "3pm", "4pm", "5pm", "6pm", "7pm", "8pm", "9pm", "10pm", "11pm", "12am", "1am", "2am"],
 };
